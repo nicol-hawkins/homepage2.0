@@ -1,5 +1,5 @@
 top = open('templates/top.html').read()
-bottom = open('bottom.html').read()
+bottom = open('templates/bottom.html').read()
 
 
 content = open('index.html').read()
