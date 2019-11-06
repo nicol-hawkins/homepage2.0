@@ -1,4 +1,4 @@
-top = open('top.html').read()
+top = open('templates/top.html').read()
 bottom = open('bottom.html').read()
 
 
