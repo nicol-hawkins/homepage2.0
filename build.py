@@ -14,4 +14,8 @@ open('docs/about.html', 'w+').write(about_html)
 
 content = open('content/resume.html').read()
 resume_html = top + content + bottom
+<<<<<<< HEAD
 open('docs/resume.html', 'w+').write(resume_html)
+=======
+open('docs/resume.html', 'w+').write(resume_html)
+>>>>>>> ssg-python
